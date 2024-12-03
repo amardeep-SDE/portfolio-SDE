@@ -10,8 +10,8 @@ import img from "./Components/assets/images/Ekart.png";
 
 const Info = {
   name: "Amardeep Dwivedi",
-  stack: ["Software Engineer", "Full Stack Developer"],
-  bio: "Software Development Engineer with over a year of experience in building responsive web applications using React JS. Specializing in front-end development, I have a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js) and can effectively contribute as a fresher in MERN projects.",
+  stack: ["Software Development Engineer", "React Developer", "MERN Stack Developer"],
+  bio: "Software Development Engineer with over a year of experience in building responsive web applications using React JS. Specializing in front-end development,  I have a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js) and can effectively contribute to MERN projects.",
 };
 
 const ProjectInfo = [
@@ -169,9 +169,9 @@ const socialLinks = [
 const ExperienceInfo = [
   {
     role: "Associate Software Developer",
-    company: "Encnato Technologies",
+    company: "Encnato Technologies Indore",
     date: "Aug 2023 - Present",
-    desc: "Software Development Engineer with over a year of experience in building responsive web applications using React JS. Specializing in front-end development, I have a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js) and can effectively contribute as a fresher in MERN projects.",
+    desc: "Software Development Engineer with over a year of experience at Encanto Technologies, successfully delivering 4 projects and currently working on the 5th. Skilled in building responsive web applications using React JS, specializing in front-end development with a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js), and ready to contribute effectively to MERN projects.",
     skills: [
       "JavaScript",
       "TypeScript",

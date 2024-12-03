@@ -11,7 +11,7 @@ const ResumeViewer = (props: any) => {
     });
 
     // Path to the Resume PDF file in the public folder
-    const resumePath = process.env.PUBLIC_URL + '/amardeep_SDE_Encanto.pdf';
+    const resumePath = process.env.PUBLIC_URL + '/amardeep_SDE.pdf';
 
     return (
         <Modal.Root scrollAreaComponent={ScrollArea.Autosize} size="auto" centered className="font-mono" opened={props.opened} onClose={props.close}>

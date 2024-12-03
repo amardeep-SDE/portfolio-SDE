@@ -81,20 +81,20 @@ const reviews = [
 // Single Review Card Component
 const ReviewCard = ({ img, name, skills }: { img: string; name: string; skills: { name: string; icon: string }[] }) => {
   return (
-    <figure className="relative w-72 cursor-pointer overflow-hidden rounded-xl p-6 bg-gradient-to-tr from-gray-300 via-gray-200 to-gray-100 shadow-lg hover:shadow-2xl transition-transform duration-300 ease-in-out transform hover:scale-105 mx-6">
+    <figure className="relative w-72 cursor-pointer overflow-hidden rounded-xl p-6 #112240 via-gray-200 to-gray-100 shadow-lg hover:shadow-2xl transition-transform duration-300 ease-in-out transform hover:scale-105 mx-6">
       <div className="flex flex-col items-center gap-4">
         <div className="w-20 h-20 rounded-full overflow-hidden shadow-lg border-4 border-white">
           <img className="object-cover w-full h-full" alt={name} src={img} />
         </div>
-        <figcaption className="text-lg font-bold text-gray-800 text-center">{name}</figcaption>
+        <figcaption className="text-lg font-bold text-white text-center">{name}</figcaption>
 
         {/* Marquee effect container */}
         <div className="skills-marquee-container w-full h-24 overflow-hidden">
           <div className="skills-marquee">
             {skills.map((skill) => (
-              <div 
+              <div
                 key={skill.name}
-                className="flex items-center gap-3 px-4 py-2 rounded-xl hover:bg-gray-200 transition-all text-gray-800 text-sm"
+                className="flex items-center gap-3 px-4 py-2 rounded-xl transition-all text-white text-sm hover:bg-gray-800 hover:text-gray-200" 
               >
                 <img className="w-6 h-6" src={skill.icon} alt={skill.name} />
                 <span className="font-semibold">{skill.name}</span>
@@ -106,6 +106,7 @@ const ReviewCard = ({ img, name, skills }: { img: string; name: string; skills: 
     </figure>
   );
 };
+
 
 
 // Skills Component
