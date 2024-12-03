@@ -92,7 +92,7 @@ const ReviewCard = ({ img, name, skills }: { img: string; name: string; skills: 
         <div className="skills-marquee-container w-full h-24 overflow-hidden">
           <div className="skills-marquee">
             {skills.map((skill) => (
-              <div
+              <div 
                 key={skill.name}
                 className="flex items-center gap-3 px-4 py-2 rounded-xl hover:bg-gray-200 transition-all text-gray-800 text-sm"
               >
