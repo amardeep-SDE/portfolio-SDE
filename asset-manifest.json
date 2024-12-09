@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-SDE/static/css/main.96301f93.css",
-    "main.js": "/Portfolio-SDE/static/js/main.ffc7b962.js",
-    "static/js/453.acca0757.chunk.js": "/Portfolio-SDE/static/js/453.acca0757.chunk.js",
-    "static/media/Ekart.png": "/Portfolio-SDE/static/media/Ekart.e08b7dc13402a962d8f1.png",
-    "static/media/profile.jpg": "/Portfolio-SDE/static/media/profile.9467e1fcc4bf2d23fd60.jpg",
-    "index.html": "/Portfolio-SDE/index.html",
-    "main.96301f93.css.map": "/Portfolio-SDE/static/css/main.96301f93.css.map",
-    "main.ffc7b962.js.map": "/Portfolio-SDE/static/js/main.ffc7b962.js.map",
-    "453.acca0757.chunk.js.map": "/Portfolio-SDE/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/portfolio-SDE/static/css/main.96301f93.css",
+    "main.js": "/portfolio-SDE/static/js/main.44992ef5.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio-SDE/static/js/453.acca0757.chunk.js",
+    "static/media/Ekart.png": "/portfolio-SDE/static/media/Ekart.e08b7dc13402a962d8f1.png",
+    "static/media/profile.jpg": "/portfolio-SDE/static/media/profile.9467e1fcc4bf2d23fd60.jpg",
+    "index.html": "/portfolio-SDE/index.html",
+    "main.96301f93.css.map": "/portfolio-SDE/static/css/main.96301f93.css.map",
+    "main.44992ef5.js.map": "/portfolio-SDE/static/js/main.44992ef5.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio-SDE/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96301f93.css",
-    "static/js/main.ffc7b962.js"
+    "static/js/main.44992ef5.js"
   ]
 }
