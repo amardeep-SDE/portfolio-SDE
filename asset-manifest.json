@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-SDE/static/css/main.96301f93.css",
-    "main.js": "/portfolio-SDE/static/js/main.44992ef5.js",
+    "main.css": "/portfolio-SDE/static/css/main.645420e2.css",
+    "main.js": "/portfolio-SDE/static/js/main.e9082f02.js",
     "static/js/453.acca0757.chunk.js": "/portfolio-SDE/static/js/453.acca0757.chunk.js",
-    "static/media/Ekart.png": "/portfolio-SDE/static/media/Ekart.e08b7dc13402a962d8f1.png",
+    "static/media/Accompanied.png": "/portfolio-SDE/static/media/Accompanied.e4093b713f6f1672fbe1.png",
     "static/media/profile.jpg": "/portfolio-SDE/static/media/profile.9467e1fcc4bf2d23fd60.jpg",
+    "static/media/kykbearings.png": "/portfolio-SDE/static/media/kykbearings.cf1d5f30600fcf6dc1aa.png",
+    "static/media/socialmedia.png": "/portfolio-SDE/static/media/socialmedia.28a5cf352b6cc05bcb83.png",
+    "static/media/dawabazar.png": "/portfolio-SDE/static/media/dawabazar.8444b98823fc1601352d.png",
+    "static/media/edusmart.png": "/portfolio-SDE/static/media/edusmart.67fbb2fec99addb704ed.png",
+    "static/media/consultkiya.png": "/portfolio-SDE/static/media/consultkiya.bb71524baa5a153a1b57.png",
     "index.html": "/portfolio-SDE/index.html",
-    "main.96301f93.css.map": "/portfolio-SDE/static/css/main.96301f93.css.map",
-    "main.44992ef5.js.map": "/portfolio-SDE/static/js/main.44992ef5.js.map",
+    "main.645420e2.css.map": "/portfolio-SDE/static/css/main.645420e2.css.map",
+    "main.e9082f02.js.map": "/portfolio-SDE/static/js/main.e9082f02.js.map",
     "453.acca0757.chunk.js.map": "/portfolio-SDE/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96301f93.css",
-    "static/js/main.44992ef5.js"
+    "static/css/main.645420e2.css",
+    "static/js/main.e9082f02.js"
   ]
 }
