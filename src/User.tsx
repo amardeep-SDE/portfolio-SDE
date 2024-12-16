@@ -20,7 +20,7 @@ const Info = {
     "React Developer",
     "MERN Stack Developer",
   ],
-  bio: "Software Development Engineer with over a year of experience in building responsive web applications using React JS. Specializing in front-end development,  I have a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js) and can effectively contribute to MERN projects.",
+  bio: "Software Development Engineer with 1 year and 9 months of ongoing experience in building responsive web applications using React and MERN stack, with expertise in scalable full stack solutions. Skilled in JavaScript, TypeScript, and frameworks like Tailwind CSS, Material UI and Express.js, with MongoDB database. Experienced in Redux Toolkit for state management and code optimization, GitHub, and Jira. Focused on delivering scalable solutions and ensuring client satisfaction through timely project delivery. As a developer I'm eager to contribute to all aspects of development. A quick learner, I adapt to new technologies and stay ahead of industry trends.",
 };
 
 const ProjectInfo = [
@@ -41,7 +41,7 @@ const ProjectInfo = [
     github: "https://github.com/Code-Mars/Spotify-Clone",
   },
   {
-    title: "EduSmart School Management",
+    title: "EduSmart Management",
     desc: "Integrated APIs to perform CRUD operations on a school website. Developed responsive pages using Material UI, Tailwind CSS, Media query and incorporated libraries like Core UI, React Hook Form and react-data-table-component. Utilized Redux Toolkit for state management and learned TypeScript during the project.",
     image: edusmart,
     live: true,
@@ -59,7 +59,7 @@ const ProjectInfo = [
     github: "https://github.com/Code-Mars/CodeX",
   },
   {
-    title: "Consult Kiya Lawyer App",
+    title: "ConsultKiya Lawyer App",
     desc: "I have developed the admin panel for a layered website using React. I utilized the Axios library for API implementation during this project and leveraged the Bootstrap framework and Core UI library for UI development.",
     image: consultkiya,
     live: true,
@@ -67,9 +67,9 @@ const ProjectInfo = [
     link: "https://admin.consultkiya.com/",
     github: "https://github.com/Code-Mars/Ekart/",
   },
- 
+
   {
-    title: "Dawabazar B2B Website",
+    title: "Dawabazar Website",
     desc: "Developed the admin panel for a B2B application focused on selling medicines. Added various functionalities and implemented calculations related to the sale and purchase of medicines. During this project, I utilized the Axios library for API implementation and employed the Bootstrap framework for UI development.",
     image: dawabazar,
     live: true,
@@ -77,7 +77,7 @@ const ProjectInfo = [
     link: "https://admin.dawabajar.com/",
     github: "https://github.com/Code-Mars/Facebook-Clone",
   },
- 
+
   {
     title: "KYK Bearings Website",
     desc: "Integrated APIs to perform CRUD operations on a school website. Developed responsive pages using Material UI, Tailwind CSS, Media query and incorporated libraries like Core UI, React Hook Form and react-data-table-component. Utilized Redux Toolkit for state management and learned TypeScript during the project.",
@@ -183,19 +183,27 @@ const ExperienceInfo = [
   {
     role: "Associate Software Developer",
     company: "Encnato Technologies Indore",
-    date: "Aug 2023 - Present",
-    desc: "Software Development Engineer with over a year of experience at Encanto Technologies, successfully delivering 4 projects and currently working on the 5th. Skilled in building responsive web applications using React JS, specializing in front-end development with a working knowledge of the MERN stack (MongoDB, Express.js, React, Node.js), and ready to contribute effectively to MERN projects.",
+    date: "April 2023 - Present",
+    desc: "Currently working as an Associate Software Developer at Encanto Technologies, Indore, contributing to cutting-edge web application development. with 1 year and 9 months of ongoing experience, I have successfully delivered 4 projects and am actively involved in the development of a 5th project. My role primarily focuses on creating responsive and dynamic user interfaces using React JS, showcasing expertise in front-end development. I also have working knowledge of the MERN stack (MongoDB, Express.js, React, and Node.js), which enables me to collaborate effectively on full-stack projects. At Encanto Technologies, I’ve honed my technical skills by adhering to industry best practices and ensuring timely delivery of client requirements. I am committed to leveraging my skills to contribute to innovative projects and drive impactful results in the software development domain.",
     skills: [
       "JavaScript",
       "TypeScript",
       "React",
+      "Redux Toolkit",
       "Material UI",
       "Tailwind CSS",
-      "Redux Toolkit",
+      "shadcn/ui",
       "Socket.IO",
+      "Zod",
       "MongoDB",
+      "Cloudinary",
+      "Firebase",
+      "Multer",
+      "Mailtrap",
       "Express.js",
       "Node.js",
+      "GitHub",
+      "Jira"
     ],
   },
 ];
