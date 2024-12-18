@@ -59,7 +59,7 @@ const ProjectInfo = [
     github: "https://github.com/Code-Mars/CodeX",
   },
   {
-    title: "ConsultKiya Lawyer App",
+    title: "ConsultKiya App",
     desc: "I have developed the admin panel for a layered website using React. I utilized the Axios library for API implementation during this project and leveraged the Bootstrap framework and Core UI library for UI development.",
     image: consultkiya,
     live: true,
