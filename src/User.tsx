@@ -203,7 +203,11 @@ const ExperienceInfo = [
       "Express.js",
       "Node.js",
       "GitHub",
-      "Jira"
+      "Jira",
+      "Docker",
+      "Jest",
+      "Swagger",
+      "Payment Gateways",
     ],
   },
 ];
