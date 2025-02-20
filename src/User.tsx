@@ -205,7 +205,6 @@ const ExperienceInfo = [
       "GitHub",
       "Jira",
       "Docker",
-      "Jest",
       "Swagger",
       "Payment Gateways",
     ],
