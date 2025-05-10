@@ -19,7 +19,7 @@ const Info = {
     "Software Development Engineer",
     "React Developer",
     "MERN Stack Developer",
-    "Full Stack Develop"
+    "Full Stack Develop",
   ],
   bio: "Software Development Engineer with 2+ years of experience in building responsive web applications using React and MERN stack, with expertise in scalable full stack solutions. Skilled in JavaScript, TypeScript, and frameworks like Tailwind CSS, Material UI and Express.js, with MongoDB database. Experienced in Redux Toolkit for state management and code optimization, GitHub, and Jira. Focused on delivering scalable solutions and ensuring client satisfaction through timely project delivery. As a developer I'm eager to contribute to all aspects of development. A quick learner, I adapt to new technologies and stay ahead of industry trends.",
 };
@@ -185,7 +185,7 @@ const ExperienceInfo = [
     role: "Associate Software Developer",
     company: "Encnato Technologies Indore",
     date: "April 2023 - Present",
-    desc: "Currently working as an Associate Software Developer at Encanto Technologies, Indore, contributing to cutting-edge web application development. with 1 year and 10 months of ongoing experience, I have successfully delivered 4 projects and am actively involved in the development of a 5th project. My role primarily focuses on creating responsive and dynamic user interfaces using React JS, showcasing expertise in front-end development. I also have working knowledge of the MERN stack (MongoDB, Express.js, React, and Node.js), which enables me to collaborate effectively on full-stack projects. At Encanto Technologies, I’ve honed my technical skills by adhering to industry best practices and ensuring timely delivery of client requirements.",
+    desc: "Software Developer with 2+ years of experience in React and MERN stack development. Skilled in building scalable, high-performance web apps with clean, maintainable code and seamless backend integration. Proficient in REST APIs, SQL/NoSQL databases, and optimizing performance using code-splitting, memoization, debounced search, and state management with caching. Strong in debugging, troubleshooting, and implementing secure authentication flows. Also experienced with AI tools and project management platforms.",
     skills: [
       "JavaScript",
       "TypeScript",
