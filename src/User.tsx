@@ -21,7 +21,7 @@ const Info = {
     "MERN Stack Developer",
     "Full Stack Develop",
   ],
-  bio: "Software Development Engineer with 2+ years of experience in building responsive web applications using React and MERN stack, with expertise in scalable full stack solutions. Skilled in JavaScript, TypeScript, and frameworks like Tailwind CSS, Material UI and Express.js, with MongoDB database. Experienced in Redux Toolkit for state management and code optimization, GitHub, and Jira. Focused on delivering scalable solutions and ensuring client satisfaction through timely project delivery. As a developer I'm eager to contribute to all aspects of development. A quick learner, I adapt to new technologies and stay ahead of industry trends.",
+  bio: "Software Developer with 2+ years of experience specializing in React and MERN stack development. Skilled in building scalable, high-performance web applications with readable, maintainable, and testable code, ensuring seamless backend integration. Proficient in REST APIs, SQL/NoSQL databases, and optimizing performance using code-splitting, memoization, debounced search, lean coding, MongoDB indexes, aggregation pipelines, and state management libraries for caching. Strong in debugging, troubleshooting, and ensuring smooth application flow. In-depth knowledge of browser internals, browser storage, JS fundamentals, and authentication flows with security best practices.",
 };
 
 const ProjectInfo = [
