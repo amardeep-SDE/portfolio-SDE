@@ -19,7 +19,7 @@ const Info = {
     "Software Development Engineer",
     "React Developer",
     "MERN Stack Developer",
-    "Full Stack Develop",
+    "Full Stack Developer",
   ],
   bio: "Software Developer with 2+ years of experience specializing in React and MERN stack development. Skilled in building scalable, high-performance web applications with readable, maintainable, and testable code, ensuring seamless backend integration. Proficient in REST APIs, SQL/NoSQL databases, and optimizing performance using code-splitting, memoization, debounced search, lean coding, MongoDB indexes, aggregation pipelines, and state management libraries for caching. Strong in debugging, troubleshooting, and ensuring smooth application flow. In-depth knowledge of browser internals, browser storage, JS fundamentals, and authentication flows with security best practices.",
 };
